@@ -1,0 +1,21 @@
+baseURL = "https://tseng.ch"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Marvin Tseng"
+theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "My name is Marvin and I am an iOS Engineer based in Zurich 🇨🇭"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/fardage"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/tsengm/"
+
+[[params.socialIcons]]
+name = "strava"
+url = "https://www.strava.com/athletes/66395570"
