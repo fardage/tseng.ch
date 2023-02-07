@@ -1,4 +1,12 @@
-# Notes on the book App Architecture by objc
++++
+author = "Marvin Tseng"
+date = 2022-02-07T21:23:32Z
+description = ""
+draft = false
+slug = "fernweh"
+title = "📕 Notes on the book App Architecture by objc"
+
++++
 
 "App Architecture: IOS Application Design Patterns in Swift" by objc is an excellent resource for iOS beginners like myself who want to improve their understanding of app architecture. Written by Chris Eidhof, Florian Kugler, and Matt Gallagher, the book provides in-depth coverage of the key aspects of iOS app architecture, including best practices and design patterns for building robust and maintainable iOS applications. With this comprehensive guide, beginners will learn how to structure their code, design a good app architecture, use model-view-controller (MVC) and other design patterns, and ensure code quality through testing.
 
